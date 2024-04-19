@@ -1,0 +1,26 @@
+export default function Profile(){
+
+   return(
+      <>
+         <div id="profile">
+            
+         </div><nav id="navbar-example2" className="navbar bg-body-tertiary px-3 mb-3">
+               <a className="navbar-brand" href="#profile">Profile</a>
+               <ul className="nav nav-pills">
+                  <li className="nav-item">
+                     <a className="nav-link" href="#abc">First</a>
+                  </li>
+                  <li className="nav-item">
+                     <a className="nav-link" href="#def">Second</a>
+                  </li>
+               </ul>
+            </nav>
+            <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" className="scrollspy-example bg-body-tertiary p-3 rounded-2" tabIndex="0">
+               <h4 id="abc">First heading</h4>
+               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perspiciatis ad nostrum. Sint esse enim fugit cum nulla repellat voluptate, eos accusamus nostrum veniam totam, voluptas impedit iste possimus et temporibus non eaque aliquam vel exercitationem quibusdam veritatis odit eveniet. Ad sed optio repudiandae saepe modi dignissimos tempora iusto omnis dolor recusandae? Harum fuga voluptatibus obcaecati hic nobis quo temporibus blanditiis quam. Quas amet dicta quidem, nesciunt facere alias quisquam voluptatem optio deserunt repudiandae doloribus. Ea, fuga saepe cumque perspiciatis ex eligendi, dolor quibusdam impedit voluptatum animi autem quo rem veritatis repellat deleniti earum nemo dolores error in expedita! Assumenda harum nam fugit. Delectus qui obcaecati quod itaque odio magnam, dolor enim architecto minima unde, dignissimos debitis repellendus eos libero deserunt accusantium! Ipsa, beatae eum consectetur sed libero officia culpa magni doloremque quo voluptatum, temporibus ex maiores repellendus saepe? Commodi molestiae aut non, atque omnis quisquam recusandae doloribus quam minima beatae fugiat reiciendis velit sunt facere accusantium aspernatur nulla! Consectetur ut cupiditate voluptas eum eligendi sunt autem inventore necessitatibus iste quia alias voluptatum enim commodi dolorem, corrupti non temporibus ipsum quam, in qui perferendis itaque numquam laudantium nesciunt. Quidem, quaerat qui repellat similique sapiente cum quibusdam libero, modi ratione dolor debitis animi aspernatur cupiditate, possimus fugit. Molestias quae nam ab deleniti harum eum asperiores sed, ducimus itaque maiores minus blanditiis. Cupiditate, sequi ipsa veritatis ad pariatur, atque molestiae officiis deserunt et excepturi minima, modi debitis suscipit iure placeat ex eaque dicta cum autem dolores necessitatibus laudantium. Rem culpa aspernatur consequatur, cumque neque laudantium recusandae, expedita esse aperiam dolor est, incidunt velit cum dicta veritatis nobis impedit accusantium. Ut dicta similique, officiis quisquam accusamus sint officia sunt. Ab molestias odio, suscipit harum quam libero in quod voluptatum, dicta incidunt facere amet ratione at nam quae minima earum quasi perspiciatis aspernatur. Labore expedita molestias voluptatem. Similique dolorum cupiditate aspernatur incidunt voluptates, culpa, vel soluta deleniti veniam dolores, odio asperiores eum eligendi ut accusantium quo deserunt. Autem exercitationem adipisci necessitatibus laudantium tempora recusandae labore excepturi iure accusantium veniam saepe suscipit officia esse minus qui, in ratione ut deleniti, dolorem molestias nam! Quasi eius suscipit nesciunt commodi maiores debitis vero. Praesentium aperiam enim mollitia molestias doloribus. Culpa voluptatum obcaecati hic et commodi modi ipsum, officiis, nostrum magnam, itaque impedit odio ullam unde. Eius natus similique, facere, illum voluptate nulla ipsam numquam debitis aperiam aliquam veritatis hic explicabo. Doloribus dignissimos architecto neque dolorem tenetur, voluptatibus necessitatibus ex dolores! Quis ipsum praesentium odit, cumque repellendus, natus modi est, ipsa sapiente eaque rerum tenetur iste voluptatibus impedit repellat ea corrupti? Provident ipsa dolore laudantium doloremque iure. Sapiente, maiores sed aliquam quaerat quae debitis ea iste, repellat officia nemo iure inventore accusantium a quo, ratione cum praesentium rem id! Debitis ipsum suscipit quisquam vel magni. Doloribus enim, praesentium mollitia sit ipsum, similique qui aut iste at obcaecati vero natus. Officia quas reiciendis fuga aut voluptatem nisi architecto veritatis, quis consequuntur cupiditate nulla pariatur, dicta esse dolorum magni optio quos assumenda blanditiis recusandae cumque aperiam earum eligendi. Hic, vel?</p>
+               <h4 id="def">Second heading</h4>
+               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, ipsam eius id labore mollitia illum temporibus consequuntur accusantium voluptatibus corporis quisquam, cupiditate facere quidem illo adipisci error ipsa atque est sunt deserunt ducimus vitae libero hic delectus. Id aperiam eaque dolores, voluptas atque nulla laudantium necessitatibus consequuntur quas deleniti. Qui.</p>
+            </div>
+      </>
+   )
+}
